@@ -1,0 +1,15 @@
+C:\Users\gorir\kadai\LinearAlgebra\bin\Debug\net9.0\LinearAlgebra.deps.json
+C:\Users\gorir\kadai\LinearAlgebra\bin\Debug\net9.0\LinearAlgebra.dll
+C:\Users\gorir\kadai\LinearAlgebra\bin\Debug\net9.0\LinearAlgebra.pdb
+C:\Users\gorir\kadai\LinearAlgebra\bin\Debug\net9.0\Statistics.dll
+C:\Users\gorir\kadai\LinearAlgebra\bin\Debug\net9.0\Statistics.pdb
+C:\Users\gorir\kadai\LinearAlgebra\obj\Debug\net9.0\LinearAlgebra.csproj.AssemblyReference.cache
+C:\Users\gorir\kadai\LinearAlgebra\obj\Debug\net9.0\LinearAlgebra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gorir\kadai\LinearAlgebra\obj\Debug\net9.0\LinearAlgebra.AssemblyInfoInputs.cache
+C:\Users\gorir\kadai\LinearAlgebra\obj\Debug\net9.0\LinearAlgebra.AssemblyInfo.cs
+C:\Users\gorir\kadai\LinearAlgebra\obj\Debug\net9.0\LinearAlgebra.csproj.CoreCompileInputs.cache
+C:\Users\gorir\kadai\LinearAlgebra\obj\Debug\net9.0\LinearAl.97A4EC9D.Up2Date
+C:\Users\gorir\kadai\LinearAlgebra\obj\Debug\net9.0\LinearAlgebra.dll
+C:\Users\gorir\kadai\LinearAlgebra\obj\Debug\net9.0\refint\LinearAlgebra.dll
+C:\Users\gorir\kadai\LinearAlgebra\obj\Debug\net9.0\LinearAlgebra.pdb
+C:\Users\gorir\kadai\LinearAlgebra\obj\Debug\net9.0\ref\LinearAlgebra.dll
